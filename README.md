@@ -8,4 +8,4 @@
 ![PHOTOS](Sololearn/IntroductionToC.jpg)
 
 # Introduction To CPP Certificate
-![PHOTOS](Sololearn/IntroductionToCpp.jpg)
+![PHOTOS](Sololearn/IntermediateC.jpg)
