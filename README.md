@@ -3,3 +3,9 @@
 
 # Git Simplilearn Certificate
 ![PHOTOS](Git/Git%20Certificate.png)
+
+# Introduction To C Certificate
+![PHOTOS](Sololearn/IntroductionToC.jpg)
+
+# Introduction To CPP Certificate
+![PHOTOS](Sololearn/IntroductionToCpp.jpg)
