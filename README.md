@@ -7,5 +7,5 @@
 # Introduction To C Certificate
 ![PHOTOS](Sololearn/IntroductionToC.jpg)
 
-# Introduction To CPP Certificate
+# Intermediate C Certificate
 ![PHOTOS](Sololearn/IntermediateC.jpg)
